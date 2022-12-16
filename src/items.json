@@ -1,0 +1,82 @@
+ [{
+  "id": 1,
+  "name": "Fancy name",
+  "beforeDiscountPrice": "",
+  "price": "$40.00 - $80.00",
+    "btn": "view option",
+  "sale": false,
+  "check": false,
+  "stars": false
+
+
+},
+{
+  "id": 2,
+  "name": "Special Item",
+  "beforeDiscountPrice": "$20.00",
+  "price": "$18.00",
+  "btn": "Add to cart",
+  "sale": true,
+  "check": true,
+  "stars": true
+},
+{
+  "id": 3,
+  "name": "Sale Item",
+  "beforeDiscountPrice": "$50.00",
+  "price": "$25.00",
+  "btn": "Add to cart",
+  "sale": true,
+  "check": true,
+  "stars": false
+},
+{
+  "id": 4,
+  "name": "Popular Item",
+  "beforeDiscountPrice": "",
+  "price": "$40.00",
+  "btn": "Add to cart",
+  "sale": false,
+  "check": true,
+  "stars": true
+},
+{
+  "id": 5,
+  "name": "Sale Item",
+  "beforeDiscountPrice": "$50.00",
+  "price": "$25.00",
+  "btn": "Add to cart",
+  "sale": true,
+  "check": true,
+  "stars": false
+},
+{
+  "id": 6,
+  "name": "Fancy name",
+  "beforeDiscountPrice": "",
+  "price": "$120.00 - $280.00",
+  "btn": "View options",
+  "sale": false,
+  "check": false,
+  "stars": false
+},
+{
+  "id": 7,
+  "name": "Special Item",
+  "beforeDiscountPrice": "$20.00",
+  "price": "$18.00",
+  "btn": "Add to cart",
+  "sale": true,
+  "check": true,
+  "stars": true
+},
+{
+  "id": 8,
+  "name": "Popular Item",
+  "price": "$40.00",
+  "btn": "Add to cart",
+  "sale": false,
+  "check": true,
+  "stars": true
+}
+]
